@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/deepch/vdk/av"
-	"github.com/deepch/vdk/utils/bits"
-	"github.com/deepch/vdk/utils/bits/pio"
+	"github.com/cgoder/vdk/av"
+	"github.com/cgoder/vdk/utils/bits"
+	"github.com/cgoder/vdk/utils/bits/pio"
 )
 
 type SPSInfo struct {

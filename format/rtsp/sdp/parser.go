@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/deepch/vdk/av"
+	"github.com/cgoder/vdk/av"
 )
 
 type Session struct {
