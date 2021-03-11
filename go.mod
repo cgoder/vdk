@@ -1,4 +1,4 @@
-module github.com/deepch/vdk
+module github.com/cgoder/vdk
 
 go 1.15
 
